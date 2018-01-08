@@ -34,11 +34,20 @@
 // var result = divide(number1, number2);
 // alert(result);
 
-var bmi = function(height, weight) {
-  return ((weight/(height*height)*703));
-}
+// var bmi = function(height, weight) {
+//   return ((weight/(height*height)*703));
+// }
+//
+// var height = parseInt(prompt("What is your height in inches?"));
+// var weight = parseInt(prompt("What is your weight in pounds?"));
+// var result = bmi(height, weight);
+// alert("Your BMI is " + result.toPrecision(4));
 
-var height = parseInt(prompt("What is your height in inches?"));
-var weight = parseInt(prompt("What is your weight in pounds?"));
-var result = bmi(height, weight);
-alert("Your BMI is " + result.toPrecision(4));
+var temp_convert = function(celsius){
+  return (celsius * 1.8) + 32;
+};
+
+var celsius = prompt("Enter your tempurature in celsius");
+var result = temp_convert(celsius);
+
+alert(result + " degrees fahrenheit");
