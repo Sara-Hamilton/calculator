@@ -1,6 +1,6 @@
-#### _Cooking App, 1/8/2018_
+#### _Calculator, 1/10/2018_
 
-#### _By Frank Ngo and Sara Hamilton_
+#### _By Hannah Lee and Sara Hamilton_
 
 ## _Description_
 
@@ -12,7 +12,7 @@ _This project is a calculator_
 
 ## Support and contact details
 
-_For questions or concerns you can contact me frankngomusic@gmail.com_
+_Submit a pull request in the repository._
 
 ## Technologies Used
 
@@ -22,7 +22,7 @@ _HTML, CSS, javascript, and bootstrap_
 
 *MIT License*
 
-Copyright (c) 2018 **_Frank Ngo & Sara Hamilton_**
+Copyright (c) 2018 **_Hannah Lee & Sara Hamilton_**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
